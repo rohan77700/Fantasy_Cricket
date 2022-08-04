@@ -1,1 +1,1 @@
-# Fantasy_Cricket
+# Fantasy Cricket Game
